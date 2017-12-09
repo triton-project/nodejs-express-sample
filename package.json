@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express-sample",
+  "version": "1.0.0",
+  "description": "Sample project created to test deployment of NodeJS applications.",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triton-project/nodejs-express-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/triton-project/nodejs-express-sample/issues"
+  },
+  "homepage": "https://github.com/triton-project/nodejs-express-sample#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
